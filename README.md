@@ -87,3 +87,5 @@ Feel free to connect or view my internship posts on [LinkedIn](https://www.linke
 This project is for educational and demonstration purposes under the internship with *Cognifyz Technologies*.
 
 ---
+
+##VIDEO : https://www.linkedin.com/posts/akash-v-9249b2296_cognifyztechnologies-cognifyz-internship-activity-7353063744962244609-w8n1?utm_source=share&utm_medium=member_android&rcm=ACoAAEex2awBF83VC-fxl3uuiPf2qnkwSc8A5_0
